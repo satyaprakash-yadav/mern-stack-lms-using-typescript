@@ -140,7 +140,7 @@ const CourseDetail = ({
                 <Ratings rating={data?.rating} />
                 <div className="mb-2 800px:mb-[unset]" />
                 <h5 className="text-[25px] font-Poppins text-black dark:text-white">
-                  {/* {Number.isInteger(data?.ratings)
+                  {/* {Number.isInteger(data?.rating)
                     ? data?.ratings.toFixed(1) || ""
                     : data?.ratings.toFixed(2) || ""}{" "} */}
                   Course Rating • {data?.reviews?.length} Reviews

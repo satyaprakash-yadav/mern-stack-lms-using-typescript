@@ -22,38 +22,38 @@ const About = () => {
           <br />
           As the founder and CEO of SARSOLUTION, I know firsthand the challenges
           that come with learning and growing in the programming industry.
-          That's why I created <span className="text-gradient">SARSOLUTIONZ</span> - to provide new programmers with
+          That&apos;s why I created <span className="text-gradient">SARSOLUTIONZ</span> - to provide new programmers with
           the resources and support they need to succeed.
           <br />
           <br />
           Our YouTube channel is a treasure trove of informative videos on
-          everything from programming basics to advanced techniques. But that's
+          everything from programming basics to advanced techniques. But that&apos;s
           just the beginning. Our affordable courses are designed to give you
           the high-quality education you need to succeed in the industry,
           without breaking the bank.
           <br />
           <br />
           At <span className="text-gradient">SARSOLUTIONZ</span>, we believe that price should never be a barrier to
-          achieving your dreams. That's why our courses are priced low - so that
+          achieving your dreams. That&apos;s why our courses are priced low - so that
           anyone, regardless of their financial situation, can access the tools
           and knowledge they need to succeed.
           <br />
           <br />
-          But <span className="text-gradient">SARSOLUTIONZ</span> is more than just a community - we're a family. Our
+          But <span className="text-gradient">SARSOLUTIONZ</span> is more than just a community - we&apos;re a family. Our
           supportive community of like-minded individuals is here to help you
-          every step of the way, whether you're just starting out or looking to
+          every step of the way, whether you&apos;re just starting out or looking to
           take your skills to the next level.
           <br />
           <br />
-          With <span className="text-gradient">SARSOLUTIONZ</span> by your side, there's nothing standing bewteen you
+          With <span className="text-gradient">SARSOLUTIONZ</span> by your side, there&apos;s nothing standing bewteen you
           and your dream job. Our courses and community will provide you with
           the guidance, support, and motivation you need to unleash your full
           potential and become a skilled programmers.
           <br />
           <br />
           So what are you waiting for? Join the <span className="text-gradient">SARSOLUTIONZ</span> family today and
-          let's conquer the programming industry together! With our affordable
-          courses, informative videos, and supportive community, the sky's the
+          let&apos;s conquer the programming industry together! With our affordable
+          courses, informative videos, and supportive community, the sky&apos;s the
           limit.
         </p>
         <br />

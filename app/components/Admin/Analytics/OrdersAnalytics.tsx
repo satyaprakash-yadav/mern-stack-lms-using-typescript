@@ -14,7 +14,7 @@ import {
 } from "recharts";
 
 type Props = {
-  isDashboard: boolean;
+  isDashboard?: boolean;
 };
 
 const OrdersAnalytics = ({ isDashboard }: Props) => {
